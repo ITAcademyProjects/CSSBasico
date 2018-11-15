@@ -1,0 +1,28 @@
+h1, h2, h3 {
+	color : red;
+}
+
+h4, h5 , h6 {
+	color: blue;
+}
+
+.lavander_background {
+	background: lavender ;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+p{
+	color: green;
+}
+
+p a{
+	color:pink;
+}
+
+.pair {
+	background: lightgrey;
+}
+
